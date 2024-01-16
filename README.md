@@ -1,2 +1,2 @@
-A virtual keybord
+A virtual keyboard
 HTML, CSS, JS
